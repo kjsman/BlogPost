@@ -1,0 +1,12 @@
+name: Deploy Updated Posts to Blog
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel Deploy Hook
+        run: curl ${{ secrets.VERCEL_DEPLOY_WEBHOOK }}
