@@ -1,6 +1,6 @@
 ---
 title: 🚩 SECCON CTF 2023 Finals Writeup
-description: ":flag:"
+description: 🚩🚩🚩
 date: 2023-12-27 18:00:00
 minutes: 15
 tags:
