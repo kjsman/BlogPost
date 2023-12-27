@@ -18,4 +18,4 @@ about: true
 
 특별히 명시하지 않는 한, 제 블로그의 모든 게시글은 [CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/)에 따라 이용하실 수 있습니다.
  
-혹시나 제게 연락하실 일이 있다면 `contact (골뱅이) kjsman (점) me`로 이메일 보내주세요. 늦어도 이틀 안에 답변합니다.
+혹시나 제게 연락하실 일이 있다면 `hello (골뱅이) jinseo (점) kim`로 이메일 보내주세요. 늦어도 이틀 안에 답변합니다.
